@@ -1,0 +1,12 @@
+/Users/nikitaromanov/Projects/DoubleLinkedList/DoubleLinkedList/bin/Debug/net5.0/DoubleLinkedList.deps.json
+/Users/nikitaromanov/Projects/DoubleLinkedList/DoubleLinkedList/bin/Debug/net5.0/DoubleLinkedList.dll
+/Users/nikitaromanov/Projects/DoubleLinkedList/DoubleLinkedList/bin/Debug/net5.0/ref/DoubleLinkedList.dll
+/Users/nikitaromanov/Projects/DoubleLinkedList/DoubleLinkedList/bin/Debug/net5.0/DoubleLinkedList.pdb
+/Users/nikitaromanov/Projects/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/DoubleLinkedList.csprojAssemblyReference.cache
+/Users/nikitaromanov/Projects/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/DoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitaromanov/Projects/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/DoubleLinkedList.AssemblyInfoInputs.cache
+/Users/nikitaromanov/Projects/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/DoubleLinkedList.AssemblyInfo.cs
+/Users/nikitaromanov/Projects/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/DoubleLinkedList.csproj.CoreCompileInputs.cache
+/Users/nikitaromanov/Projects/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/DoubleLinkedList.dll
+/Users/nikitaromanov/Projects/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/ref/DoubleLinkedList.dll
+/Users/nikitaromanov/Projects/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/DoubleLinkedList.pdb
